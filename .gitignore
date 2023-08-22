@@ -20,4 +20,4 @@
 # Go workspace file
 go.work
 
-DB_Connection.txt
+src/DB_Connection.txt
